@@ -1,0 +1,137 @@
+{
+  "US": {
+    "title": "AfroEarth USA Senior Singles",
+    "h1": "senior",
+    "mainImg": "img/bg/o-RETIREE-VACATION-facebook.jpg",
+    "description": "Chat and meet Senior singles in your area.",
+    "welcomeText": "Afro Earth Senior Singles is the premier online dating service for senior singles. Senior singles are online now in our large and active community for dating. Afro Earth Senior Singles is designed for dating, pen pals and to bring senior singles together. Join Afro Earth Senior Singles and meet new senior singles for friendship and dating. Afro Earth Senior Singles is a niche dating service for single senior women and single senior men. Become a member of Afro Earth Senior Singles and learn more about meeting your senior match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Senior Singles Team",
+    "members": [
+      {"name": "KATIE, 61", "img": "img/members/senior/1379242t9h4878.jpg"},
+      {"name": "JOSH, 67", "img": "img/members/senior/600_241226_0105_39281904.jpg"},
+      {"name": "AMY, 65", "img": "img/members/senior/stock-photo-21615414-portrait-of-a-friendly-smiling-senior-woman.jpg"},
+      {"name": "DANNY, 63", "img": "img/members/senior/page1-img-1.jpg"},
+      {"name": "HANNAH, 62", "img": "img/members/senior/U149116593.png"},
+      {"name": "DAVE, 60", "img": "img/members/senior/photodune-270051-senior-man-reading-book-xs-1-225x300.jpg"}
+    ],
+    "Signature": "AfroEarthSeniorSingles",
+    "url": "us",
+    "id": "50011",
+    "country" : "US",
+    "countryFlag": "img/flags/us-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" }
+    ]
+  },
+  "UK": {
+    "title": "AfroEarth United Kingdom Senior Singles",
+    "h1": "senior",
+    "mainImg": "img/bg/o-RETIREE-VACATION-facebook.jpg",
+    "description": "Chat and meet Senior singles in your area.",
+    "welcomeText": "Afro Earth Senior Singles is the premier online dating service for senior singles. Senior singles are online now in our large and active community for dating. Afro Earth Senior Singles is designed for dating, pen pals and to bring senior singles together. Join Afro Earth Senior Singles and meet new senior singles for friendship and dating. Afro Earth Senior Singles is a niche dating service for single senior women and single senior men. Become a member of Afro Earth Senior Singles and learn more about meeting your senior match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Senior Singles Team",
+    "members": [
+      {"name": "KATIE, 61", "img": "img/members/senior/1379242t9h4878.jpg"},
+      {"name": "JOSH, 67", "img": "img/members/senior/600_241226_0105_39281904.jpg"},
+      {"name": "AMY, 65", "img": "img/members/senior/stock-photo-21615414-portrait-of-a-friendly-smiling-senior-woman.jpg"},
+      {"name": "DANNY, 63", "img": "img/members/senior/page1-img-1.jpg"},
+      {"name": "HANNAH, 62", "img": "img/members/senior/U149116593.png"},
+      {"name": "DAVE, 60", "img": "img/members/senior/photodune-270051-senior-man-reading-book-xs-1-225x300.jpg"}
+    ],
+    "signature": "AfroEarthSeniorSingles",
+    "url": "uk",
+    "id": "50011",
+    "country" : "UK",
+    "countryFlag": "img/flags/uk-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "SA" : {
+    "title": "AfroEarth South Africa Senior Singles",
+    "h1": "senior",
+    "mainImg": "img/bg/o-RETIREE-VACATION-facebook.jpg",
+    "description": "Chat and meet Senior singles in your area.",
+    "welcomeText": "Afro Earth Senior Singles is the premier online dating service for senior singles. Senior singles are online now in our large and active community for dating. Afro Earth Senior Singles is designed for dating, pen pals and to bring senior singles together. Join Afro Earth Senior Singles and meet new senior singles for friendship and dating. Afro Earth Senior Singles is a niche dating service for single senior women and single senior men. Become a member of Afro Earth Senior Singles and learn more about meeting your senior match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Senior Singles Team",
+    "members": [
+      {"name": "KATIE, 61", "img": "img/members/senior/1379242t9h4878.jpg"},
+      {"name": "JOSH, 67", "img": "img/members/senior/600_241226_0105_39281904.jpg"},
+      {"name": "AMY, 65", "img": "img/members/senior/stock-photo-21615414-portrait-of-a-friendly-smiling-senior-woman.jpg"},
+      {"name": "DANNY, 63", "img": "img/members/senior/page1-img-1.jpg"},
+      {"name": "HANNAH, 62", "img": "img/members/senior/U149116593.png"},
+      {"name": "DAVE, 60", "img": "img/members/senior/photodune-270051-senior-man-reading-book-xs-1-225x300.jpg"}
+    ],
+    "signature": "AfroEarthSeniorSingles",
+    "url": "sa",
+    "id": "50011",
+    "country" : "SA",
+    "countryFlag": "img/flags/sa-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "CAN": {
+    "title": "AfroEarth Canada Senior Singles",
+    "h1": "senior",
+    "mainImg": "img/bg/o-RETIREE-VACATION-facebook.jpg",
+    "description": "Chat and meet Senior singles in your area.",
+    "welcomeText": "Afro Earth Senior Singles is the premier online dating service for senior singles. Senior singles are online now in our large and active community for dating. Afro Earth Senior Singles is designed for dating, pen pals and to bring senior singles together. Join Afro Earth Senior Singles and meet new senior singles for friendship and dating. Afro Earth Senior Singles is a niche dating service for single senior women and single senior men. Become a member of Afro Earth Senior Singles and learn more about meeting your senior match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Senior Singles Team",
+    "members": [
+      {"name": "KATIE, 61", "img": "img/members/senior/1379242t9h4878.jpg"},
+      {"name": "JOSH, 67", "img": "img/members/senior/600_241226_0105_39281904.jpg"},
+      {"name": "AMY, 65", "img": "img/members/senior/stock-photo-21615414-portrait-of-a-friendly-smiling-senior-woman.jpg"},
+      {"name": "DANNY, 63", "img": "img/members/senior/page1-img-1.jpg"},
+      {"name": "HANNAH, 62", "img": "img/members/senior/U149116593.png"},
+      {"name": "DAVE, 60", "img": "img/members/senior/photodune-270051-senior-man-reading-book-xs-1-225x300.jpg"}
+    ],
+    "signature": "AfroEarthSeniorSingles",
+    "url": "can",
+    "id": "50011",
+    "country" : "CA",
+    "countryFlag": "img/flags/ca-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "AU": {
+    "title": "AfroEarth Australia Senior Singles",
+    "h1": "senior",
+    "mainImg": "img/bg/o-RETIREE-VACATION-facebook.jpg",
+    "description": "Chat and meet Senior singles in your area.",
+    "welcomeText": "Afro Earth Senior Singles is the premier online dating service for senior singles. Senior singles are online now in our large and active community for dating. Afro Earth Senior Singles is designed for dating, pen pals and to bring senior singles together. Join Afro Earth Senior Singles and meet new senior singles for friendship and dating. Afro Earth Senior Singles is a niche dating service for single senior women and single senior men. Become a member of Afro Earth Senior Singles and learn more about meeting your senior match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Senior Singles Team",
+    "members": [
+      {"name": "KATIE, 61", "img": "img/members/senior/1379242t9h4878.jpg"},
+      {"name": "JOSH, 67", "img": "img/members/senior/600_241226_0105_39281904.jpg"},
+      {"name": "AMY, 65", "img": "img/members/senior/stock-photo-21615414-portrait-of-a-friendly-smiling-senior-woman.jpg"},
+      {"name": "DANNY, 63", "img": "img/members/senior/page1-img-1.jpg"},
+      {"name": "HANNAH, 62", "img": "img/members/senior/U149116593.png"},
+      {"name": "DAVE, 60", "img": "img/members/senior/photodune-270051-senior-man-reading-book-xs-1-225x300.jpg"}
+    ],
+    "signature": "AfroEarthSeniorSingles",
+    "url": "au",
+    "id": "50011",
+    "country" : "AU",
+    "countryFlag": "img/flags/au-flag.png",
+    "countries": [
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  }
+}

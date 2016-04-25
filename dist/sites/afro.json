@@ -1,0 +1,67 @@
+{
+    "US": {
+        "title": "AfroEarth USA",
+        "url": "us",
+        "id": "50011",
+        "country" : "US",
+        "countryFlag": "img/flags/us-flag.png",
+        "countries": [
+            {"name": "AUSTRALIA", "url": "AU" },
+            {"name": "CANADA", "url": "CAN" },
+            {"name": "SOUTH AFRICA", "url": "SA" },
+            {"name": "UNITED KINGDOM", "url": "UK" }
+        ]
+    },
+    "UK": {
+        "title": "AfroEarth UNITED KINGDOM",
+        "url": "uk",
+        "id": "50011",
+        "country" : "UK",
+        "countryFlag": "img/flags/uk-flag.png",
+        "countries": [
+            {"name": "AUSTRALIA", "url": "AU" },
+            {"name": "CANADA", "url": "CAN" },
+            {"name": "SOUTH AFRICA", "url": "SA" },
+            {"name": "UNITED STATES", "url": "US" }
+        ]
+    },
+    "SA" : {
+        "title": "AfroEarth SOUTH AFRICA",
+        "url": "sa",
+        "id": "50011",
+        "country" : "SA",
+        "countryFlag": "img/flags/sa-flag.png",
+        "countries": [
+            {"name": "AUSTRALIA", "url": "AU" },
+            {"name": "CANADA", "url": "CAN" },
+            {"name": "UNITED KINGDOM", "url": "UK" },
+            {"name": "UNITED STATES", "url": "US" }
+        ]
+    },
+    "CAN": {
+        "title": "AfroEarth CANADA",
+        "url": "can",
+        "id": "50011",
+        "country" : "CA",
+        "countryFlag": "img/flags/ca-flag.png",
+        "countries": [
+            {"name": "AUSTRALIA", "url": "AU" },
+            {"name": "SOUTH AFRICA", "url": "SA" },
+            {"name": "UNITED KINGDOM", "url": "UK" },
+            {"name": "UNITED STATES", "url": "US" }
+        ]
+    },
+    "AU": {
+        "title": "AfroEarth AUSTRALIA",
+        "url": "au",
+        "id": "50011",
+        "country" : "AU",
+        "countryFlag": "img/flags/au-flag.png",
+        "countries": [
+            {"name": "CANADA", "url": "CAN" },
+            {"name": "SOUTH AFRICA", "url": "SA" },
+            {"name": "UNITED KINGDOM", "url": "UK" },
+            {"name": "UNITED STATES", "url": "US" }
+        ]
+    }
+}

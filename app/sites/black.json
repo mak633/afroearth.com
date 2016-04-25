@@ -1,0 +1,137 @@
+{
+  "US": {
+    "title": "AfroEarth USA Black Singles",
+    "h1": "black",
+    "mainImg": "img/bg/couple41-min.jpg",
+    "description": "Chat and meet black singles in your area.",
+    "welcomeText": "Afro Earth Black Singles is the premier online dating service for black singles. Black singles are online now in our large and active community for dating. Afro Earth Black Singles is designed for dating, pen pals and to bring black singles together. Join Afro Earth Black Singles and meet new black singles for friendship and dating. Afro Earth Black Singles is a niche dating service for single black women and single black men. Become a member of Afro Earth Black Singles and learn more about meeting your black match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Black Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/black/7714.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/black/scared-black-man-240x240.jpg"},
+      {"name": "AMY, 31", "img": "img/members/black/klmkjl1436172316384.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/black/darius-beasley-avatar.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/black/getImage.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/black/6573.jpg"}
+    ],
+    "Signature": "AfroEarthBlackSingles",
+    "url": "us",
+    "id": "50011",
+    "country" : "US",
+    "countryFlag": "img/flags/us-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" }
+    ]
+  },
+  "UK": {
+    "title": "AfroEarth United Kingdom Black Singles",
+    "h1": "black",
+    "mainImg": "img/bg/couple41-min.jpg",
+    "description": "Chat and meet black singles in your area.",
+    "welcomeText": "Afro Earth Black Singles is the premier online dating service for black singles. Black singles are online now in our large and active community for dating. Afro Earth Black Singles is designed for dating, pen pals and to bring black singles together. Join Afro Earth Black Singles and meet new black singles for friendship and dating. Afro Earth Black Singles is a niche dating service for single black women and single black men. Become a member of Afro Earth Black Singles and learn more about meeting your black match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Black Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/black/7714.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/black/scared-black-man-240x240.jpg"},
+      {"name": "AMY, 31", "img": "img/members/black/klmkjl1436172316384.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/black/darius-beasley-avatar.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/black/getImage.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/black/6573.jpg"}
+    ],
+    "signature": "AfroEarthBlackSingles",
+    "url": "uk",
+    "id": "50011",
+    "country" : "UK",
+    "countryFlag": "img/flags/uk-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "SA" : {
+    "title": "AfroEarth South Africa Black Singles",
+    "h1": "black",
+    "mainImg": "img/bg/couple41-min.jpg",
+    "description": "Chat and meet black singles in your area.",
+    "welcomeText": "Afro Earth Black Singles is the premier online dating service for black singles. Black singles are online now in our large and active community for dating. Afro Earth Black Singles is designed for dating, pen pals and to bring black singles together. Join Afro Earth Black Singles and meet new black singles for friendship and dating. Afro Earth Black Singles is a niche dating service for single black women and single black men. Become a member of Afro Earth Black Singles and learn more about meeting your black match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Black Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/black/7714.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/black/scared-black-man-240x240.jpg"},
+      {"name": "AMY, 31", "img": "img/members/black/klmkjl1436172316384.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/black/darius-beasley-avatar.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/black/getImage.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/black/6573.jpg"}
+    ],
+    "signature": "AfroEarthBlackSingles",
+    "url": "sa",
+    "id": "50011",
+    "country" : "SA",
+    "countryFlag": "img/flags/sa-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "CAN": {
+    "title": "AfroEarth Canada Black Singles",
+    "h1": "black",
+    "mainImg": "img/bg/couple41-min.jpg",
+    "description": "Chat and meet black singles in your area.",
+    "welcomeText": "Afro Earth Black Singles is the premier online dating service for black singles. Black singles are online now in our large and active community for dating. Afro Earth Black Singles is designed for dating, pen pals and to bring black singles together. Join Afro Earth Black Singles and meet new black singles for friendship and dating. Afro Earth Black Singles is a niche dating service for single black women and single black men. Become a member of Afro Earth Black Singles and learn more about meeting your black match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Black Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/black/7714.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/black/scared-black-man-240x240.jpg"},
+      {"name": "AMY, 31", "img": "img/members/black/klmkjl1436172316384.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/black/darius-beasley-avatar.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/black/getImage.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/black/6573.jpg"}
+    ],
+    "signature": "AfroEarthBlackSingles",
+    "url": "can",
+    "id": "50011",
+    "country" : "CA",
+    "countryFlag": "img/flags/ca-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "AU": {
+    "title": "AfroEarth Australia Black Singles",
+    "h1": "black",
+    "mainImg": "img/bg/couple41-min.jpg",
+    "description": "Chat and meet black singles in your area.",
+    "welcomeText": "Afro Earth Black Singles is the premier online dating service for black singles. Black singles are online now in our large and active community for dating. Afro Earth Black Singles is designed for dating, pen pals and to bring black singles together. Join Afro Earth Black Singles and meet new black singles for friendship and dating. Afro Earth Black Singles is a niche dating service for single black women and single black men. Become a member of Afro Earth Black Singles and learn more about meeting your black match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Black Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/black/7714.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/black/scared-black-man-240x240.jpg"},
+      {"name": "AMY, 31", "img": "img/members/black/klmkjl1436172316384.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/black/darius-beasley-avatar.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/black/getImage.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/black/6573.jpg"}
+    ],
+    "signature": "AfroEarthBlackSingles",
+    "url": "au",
+    "id": "50011",
+    "country" : "AU",
+    "countryFlag": "img/flags/au-flag.png",
+    "countries": [
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  }
+}

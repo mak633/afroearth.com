@@ -1,0 +1,137 @@
+{
+  "US": {
+    "title": "AfroEarth USA Professional Singles",
+    "h1": "professional",
+    "mainImg": "img/bg/offers-linger-longer-1680-945.jpg",
+    "description": "Chat and meet Professional singles in your area.",
+    "welcomeText": "Afro Earth Professional Singles is the premier online dating service for professional singles. Professional singles are online now in our large and active community for dating. Afro Earth Professional Singles is designed for dating, pen pals and to bring professional singles together. Join Afro Earth Professional Singles and meet new professional singles for friendship and dating. Afro Earth Professional Singles is a niche dating service for single professional women and single professional men. Become a member of Afro Earth Professional Singles and learn more about meeting your professional match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Professional Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/professional/-250-to-Spend-on-Prescription-Glasses-or-Prescription-Sunglasses--bc16fdf555bda23b9ce5b2694c8c8b8d-tiktakto.com.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/professional/9491447748066.jpg"},
+      {"name": "AMY, 31", "img": "img/members/professional/Mz39skBGcTY2GqkRLmbMvoXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/professional/start-up.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/professional/testimonial-2-500x500.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/professional/1442313403806547.jpg"}
+    ],
+    "Signature": "AfroEarthProfessionalSingles",
+    "url": "us",
+    "id": "50011",
+    "country" : "US",
+    "countryFlag": "img/flags/us-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" }
+    ]
+  },
+  "UK": {
+    "title": "AfroEarth United Kingdom Professional Singles",
+    "h1": "professional",
+    "mainImg": "img/bg/offers-linger-longer-1680-945.jpg",
+    "description": "Chat and meet Professional singles in your area.",
+    "welcomeText": "Afro Earth Professional Singles is the premier online dating service for professional singles. Professional singles are online now in our large and active community for dating. Afro Earth Professional Singles is designed for dating, pen pals and to bring professional singles together. Join Afro Earth Professional Singles and meet new professional singles for friendship and dating. Afro Earth Professional Singles is a niche dating service for single professional women and single professional men. Become a member of Afro Earth Professional Singles and learn more about meeting your professional match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Professional Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/professional/-250-to-Spend-on-Prescription-Glasses-or-Prescription-Sunglasses--bc16fdf555bda23b9ce5b2694c8c8b8d-tiktakto.com.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/professional/9491447748066.jpg"},
+      {"name": "AMY, 31", "img": "img/members/professional/Mz39skBGcTY2GqkRLmbMvoXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/professional/start-up.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/professional/testimonial-2-500x500.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/professional/1442313403806547.jpg"}
+    ],
+    "signature": "AfroEarthProfessionalSingles",
+    "url": "uk",
+    "id": "50011",
+    "country" : "UK",
+    "countryFlag": "img/flags/uk-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "SA" : {
+    "title": "AfroEarth South Africa Professional Singles",
+    "h1": "professional",
+    "mainImg": "img/bg/offers-linger-longer-1680-945.jpg",
+    "description": "Chat and meet Professional singles in your area.",
+    "welcomeText": "Afro Earth Professional Singles is the premier online dating service for professional singles. Professional singles are online now in our large and active community for dating. Afro Earth Professional Singles is designed for dating, pen pals and to bring professional singles together. Join Afro Earth Professional Singles and meet new professional singles for friendship and dating. Afro Earth Professional Singles is a niche dating service for single professional women and single professional men. Become a member of Afro Earth Professional Singles and learn more about meeting your professional match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Professional Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/professional/-250-to-Spend-on-Prescription-Glasses-or-Prescription-Sunglasses--bc16fdf555bda23b9ce5b2694c8c8b8d-tiktakto.com.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/professional/9491447748066.jpg"},
+      {"name": "AMY, 31", "img": "img/members/professional/Mz39skBGcTY2GqkRLmbMvoXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/professional/start-up.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/professional/testimonial-2-500x500.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/professional/1442313403806547.jpg"}
+    ],
+    "signature": "AfroEarthProfessionalSingles",
+    "url": "sa",
+    "id": "50011",
+    "country" : "SA",
+    "countryFlag": "img/flags/sa-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "CAN": {
+    "title": "AfroEarth Canada Professional Singles",
+    "h1": "professional",
+    "mainImg": "img/bg/offers-linger-longer-1680-945.jpg",
+    "description": "Chat and meet Professional singles in your area.",
+    "welcomeText": "Afro Earth Professional Singles is the premier online dating service for professional singles. Professional singles are online now in our large and active community for dating. Afro Earth Professional Singles is designed for dating, pen pals and to bring professional singles together. Join Afro Earth Professional Singles and meet new professional singles for friendship and dating. Afro Earth Professional Singles is a niche dating service for single professional women and single professional men. Become a member of Afro Earth Professional Singles and learn more about meeting your professional match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Professional Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/professional/-250-to-Spend-on-Prescription-Glasses-or-Prescription-Sunglasses--bc16fdf555bda23b9ce5b2694c8c8b8d-tiktakto.com.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/professional/9491447748066.jpg"},
+      {"name": "AMY, 31", "img": "img/members/professional/Mz39skBGcTY2GqkRLmbMvoXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/professional/start-up.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/professional/testimonial-2-500x500.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/professional/1442313403806547.jpg"}
+    ],
+    "signature": "AfroEarthProfessionalSingles",
+    "url": "can",
+    "id": "50011",
+    "country" : "CA",
+    "countryFlag": "img/flags/ca-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "AU": {
+    "title": "AfroEarth Australia Professional Singles",
+    "h1": "professional",
+    "mainImg": "img/bg/offers-linger-longer-1680-945.jpg",
+    "description": "Chat and meet Professional singles in your area.",
+    "welcomeText": "Afro Earth Professional Singles is the premier online dating service for professional singles. Professional singles are online now in our large and active community for dating. Afro Earth Professional Singles is designed for dating, pen pals and to bring professional singles together. Join Afro Earth Professional Singles and meet new professional singles for friendship and dating. Afro Earth Professional Singles is a niche dating service for single professional women and single professional men. Become a member of Afro Earth Professional Singles and learn more about meeting your professional match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Professional Singles Team",
+    "members": [
+      {"name": "KATIE, 25", "img": "img/members/professional/-250-to-Spend-on-Prescription-Glasses-or-Prescription-Sunglasses--bc16fdf555bda23b9ce5b2694c8c8b8d-tiktakto.com.jpg"},
+      {"name": "JOSH, 28", "img": "img/members/professional/9491447748066.jpg"},
+      {"name": "AMY, 31", "img": "img/members/professional/Mz39skBGcTY2GqkRLmbMvoXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/professional/start-up.jpg"},
+      {"name": "HANNAH, 34", "img": "img/members/professional/testimonial-2-500x500.jpg"},
+      {"name": "DAVE, 23", "img": "img/members/professional/1442313403806547.jpg"}
+    ],
+    "signature": "AfroEarthProfessionalSingles",
+    "url": "au",
+    "id": "50011",
+    "country" : "AU",
+    "countryFlag": "img/flags/au-flag.png",
+    "countries": [
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  }
+}

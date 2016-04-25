@@ -1,0 +1,137 @@
+{
+  "US": {
+    "title": "AfroEarth USA Christian Singles",
+    "h1": "christian",
+    "mainImg": "img/bg/christian.jpg",
+    "description": "Chat and meet Christian singles in your area.",
+    "welcomeText": "Afro Earth Christian Singles is the premier online dating service for christian singles. Christian singles are online now in our large and active community for dating. Afro Earth Christian Singles is designed for dating, pen pals and to bring christian singles together. Join Afro Earth Christian Singles and meet new christian singles for friendship and dating. Afro Earth Christian Singles is a niche dating service for single christian women and single christian men. Become a member of Afro Earth Christian Singles and learn more about meeting your christian match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Christian Singles Team",
+    "members": [
+      {"name": "JANE, 25", "img": "img/members/christian/EtWJSg-Fu_k.jpg"},
+      {"name": "TOM, 28", "img": "img/members/christian/pic4.jpg"},
+      {"name": "LILY, 31", "img": "img/members/christian/Hypnotic Smile.jpg.opt371x363o0,0s371x363.jpg"},
+      {"name": "ROBERT, 33", "img": "img/members/christian/beautiful-boy-guy-man-Favim.com-1521219.jpg"},
+      {"name": "KATE, 34", "img": "img/members/christian/shutterstock_593312051-460x460.jpg"},
+      {"name": "BRAD, 23", "img": "img/members/christian/2011-02-16-henning-sanders.jpg"}
+    ],
+    "Signature": "AfroEarthChristianSingles",
+    "url": "us",
+    "id": "50011",
+    "country" : "US",
+    "countryFlag": "img/flags/us-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" }
+    ]
+  },
+  "UK": {
+    "title": "AfroEarth United Kingdom Christian Singles",
+    "h1": "christian",
+    "mainImg": "img/bg/christian.jpg",
+    "description": "Chat and meet Christian singles in your area.",
+    "welcomeText": "Afro Earth Christian Singles is the premier online dating service for christian singles. Christian singles are online now in our large and active community for dating. Afro Earth Christian Singles is designed for dating, pen pals and to bring christian singles together. Join Afro Earth Christian Singles and meet new christian singles for friendship and dating. Afro Earth Christian Singles is a niche dating service for single christian women and single christian men. Become a member of Afro Earth Christian Singles and learn more about meeting your christian match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Christian Singles Team",
+    "members": [
+      {"name": "JANE, 25", "img": "img/members/christian/EtWJSg-Fu_k.jpg"},
+      {"name": "TOM, 28", "img": "img/members/christian/pic4.jpg"},
+      {"name": "LILY, 31", "img": "img/members/christian/Hypnotic Smile.jpg.opt371x363o0,0s371x363.jpg"},
+      {"name": "ROBERT, 33", "img": "img/members/christian/beautiful-boy-guy-man-Favim.com-1521219.jpg"},
+      {"name": "KATE, 34", "img": "img/members/christian/shutterstock_593312051-460x460.jpg"},
+      {"name": "BRAD, 23", "img": "img/members/christian/2011-02-16-henning-sanders.jpg"}
+    ],
+    "signature": "AfroEarthChristianSingles",
+    "url": "uk",
+    "id": "50011",
+    "country" : "UK",
+    "countryFlag": "img/flags/uk-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "SA" : {
+    "title": "AfroEarth South Africa Christian Singles",
+    "h1": "christian",
+    "mainImg": "img/bg/christian.jpg",
+    "description": "Chat and meet Christian singles in your area.",
+    "welcomeText": "Afro Earth Christian Singles is the premier online dating service for christian singles. Christian singles are online now in our large and active community for dating. Afro Earth Christian Singles is designed for dating, pen pals and to bring christian singles together. Join Afro Earth Christian Singles and meet new christian singles for friendship and dating. Afro Earth Christian Singles is a niche dating service for single christian women and single christian men. Become a member of Afro Earth Christian Singles and learn more about meeting your christian match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Christian Singles Team",
+    "members": [
+      {"name": "JANE, 25", "img": "img/members/christian/EtWJSg-Fu_k.jpg"},
+      {"name": "TOM, 28", "img": "img/members/christian/pic4.jpg"},
+      {"name": "LILY, 31", "img": "img/members/christian/Hypnotic Smile.jpg.opt371x363o0,0s371x363.jpg"},
+      {"name": "ROBERT, 33", "img": "img/members/christian/beautiful-boy-guy-man-Favim.com-1521219.jpg"},
+      {"name": "KATE, 34", "img": "img/members/christian/shutterstock_593312051-460x460.jpg"},
+      {"name": "BRAD, 23", "img": "img/members/christian/2011-02-16-henning-sanders.jpg"}
+    ],
+    "signature": "AfroEarthChristianSingles",
+    "url": "sa",
+    "id": "50011",
+    "country" : "SA",
+    "countryFlag": "img/flags/sa-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "CAN": {
+    "title": "AfroEarth Canada Christian Singles",
+    "h1": "christian",
+    "mainImg": "img/bg/christian.jpg",
+    "description": "Chat and meet Christian singles in your area.",
+    "welcomeText": "Afro Earth Christian Singles is the premier online dating service for christian singles. Christian singles are online now in our large and active community for dating. Afro Earth Christian Singles is designed for dating, pen pals and to bring christian singles together. Join Afro Earth Christian Singles and meet new christian singles for friendship and dating. Afro Earth Christian Singles is a niche dating service for single christian women and single christian men. Become a member of Afro Earth Christian Singles and learn more about meeting your christian match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Christian Singles Team",
+    "members": [
+      {"name": "JANE, 25", "img": "img/members/christian/EtWJSg-Fu_k.jpg"},
+      {"name": "TOM, 28", "img": "img/members/christian/pic4.jpg"},
+      {"name": "LILY, 31", "img": "img/members/christian/Hypnotic Smile.jpg.opt371x363o0,0s371x363.jpg"},
+      {"name": "ROBERT, 33", "img": "img/members/christian/beautiful-boy-guy-man-Favim.com-1521219.jpg"},
+      {"name": "KATE, 34", "img": "img/members/christian/shutterstock_593312051-460x460.jpg"},
+      {"name": "BRAD, 23", "img": "img/members/christian/2011-02-16-henning-sanders.jpg"}
+    ],
+    "signature": "AfroEarthChristianSingles",
+    "url": "can",
+    "id": "50011",
+    "country" : "CA",
+    "countryFlag": "img/flags/ca-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "AU": {
+    "title": "AfroEarth Australia Christian Singles",
+    "h1": "christian",
+    "mainImg": "img/bg/christian.jpg",
+    "description": "Chat and meet Christian singles in your area.",
+    "welcomeText": "Afro Earth Christian Singles is the premier online dating service for christian singles. Christian singles are online now in our large and active community for dating. Afro Earth Christian Singles is designed for dating, pen pals and to bring christian singles together. Join Afro Earth Christian Singles and meet new christian singles for friendship and dating. Afro Earth Christian Singles is a niche dating service for single christian women and single christian men. Become a member of Afro Earth Christian Singles and learn more about meeting your christian match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Christian Singles Team",
+    "members": [
+      {"name": "JANE, 25", "img": "img/members/christian/EtWJSg-Fu_k.jpg"},
+      {"name": "TOM, 28", "img": "img/members/christian/pic4.jpg"},
+      {"name": "LILY, 31", "img": "img/members/christian/Hypnotic Smile.jpg.opt371x363o0,0s371x363.jpg"},
+      {"name": "ROBERT, 33", "img": "img/members/christian/beautiful-boy-guy-man-Favim.com-1521219.jpg"},
+      {"name": "KATE, 34", "img": "img/members/christian/shutterstock_593312051-460x460.jpg"},
+      {"name": "BRAD, 23", "img": "img/members/christian/2011-02-16-henning-sanders.jpg"}
+    ],
+    "signature": "AfroEarthChristianSingles",
+    "url": "au",
+    "id": "50011",
+    "country" : "AU",
+    "countryFlag": "img/flags/au-flag.png",
+    "countries": [
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  }
+}

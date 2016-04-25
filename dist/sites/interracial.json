@@ -1,0 +1,137 @@
+{
+  "US": {
+    "title": "AfroEarth USA Interracial Singles",
+    "h1": "interracial",
+    "mainImg": "img/bg/interracial-couple-min.jpg",
+    "description": "Chat and meet Interracial singles in your area.",
+    "welcomeText": "fro Earth Interracial Singles is the premier online dating service for interracial singles. Interracial singles are online now in our large and active community for dating. Afro Earth Interracial Singles is designed for dating, pen pals and to bring interracial singles together. Join Afro Earth Interracial Singles and meet new interracial singles for friendship and dating. Afro Earth Interracial Singles is a niche dating service for single interracial women and single interracial men. Become a member of Afro Earth Interracial Singles and learn more about meeting your interracial match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Interracial Singles Team",
+    "members": [
+      {"name": "ASHLEY, 25", "img": "img/members/interracial/_3291716_6750377_1384258974.jpg"},
+      {"name": "ROBERT, 28", "img": "img/members/interracial/28fb8d76ac0eb1bc8a36fd707175c748.jpeg"},
+      {"name": "CLARA, 31", "img": "img/members/interracial/120590366_Ym7GlL4x9Tqg82-KZVo-XCn6rAac7A_HQecz2zsRv_I.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/interracial/6644cae5c76f86d67ba996083a0040eb0cd50b51_full.jpg"},
+      {"name": "LUCY, 34", "img": "img/members/interracial/Lemark_3.jpg"},
+      {"name": "HAMES, 23", "img": "img/members/interracial/QrUggdVVwBo.jpg"}
+    ],
+    "Signature": "AfroEarthInterracialSingles",
+    "url": "us",
+    "id": "50011",
+    "country" : "US",
+    "countryFlag": "img/flags/us-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" }
+    ]
+  },
+  "UK": {
+    "title": "AfroEarth United Kingdom Interracial Singles",
+    "h1": "interracial",
+    "mainImg": "img/bg/interracial-couple-min.jpg",
+    "description": "Chat and meet Interracial singles in your area.",
+    "welcomeText": "fro Earth Interracial Singles is the premier online dating service for interracial singles. Interracial singles are online now in our large and active community for dating. Afro Earth Interracial Singles is designed for dating, pen pals and to bring interracial singles together. Join Afro Earth Interracial Singles and meet new interracial singles for friendship and dating. Afro Earth Interracial Singles is a niche dating service for single interracial women and single interracial men. Become a member of Afro Earth Interracial Singles and learn more about meeting your interracial match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Interracial Singles Team",
+    "members": [
+      {"name": "ASHLEY, 25", "img": "img/members/interracial/_3291716_6750377_1384258974.jpg"},
+      {"name": "ROBERT, 28", "img": "img/members/interracial/28fb8d76ac0eb1bc8a36fd707175c748.jpeg"},
+      {"name": "CLARA, 31", "img": "img/members/interracial/120590366_Ym7GlL4x9Tqg82-KZVo-XCn6rAac7A_HQecz2zsRv_I.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/interracial/6644cae5c76f86d67ba996083a0040eb0cd50b51_full.jpg"},
+      {"name": "LUCY, 34", "img": "img/members/interracial/Lemark_3.jpg"},
+      {"name": "HAMES, 23", "img": "img/members/interracial/QrUggdVVwBo.jpg"}
+    ],
+    "signature": "AfroEarthInterracialSingles",
+    "url": "uk",
+    "id": "50011",
+    "country" : "UK",
+    "countryFlag": "img/flags/uk-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "SA" : {
+    "title": "AfroEarth South Africa Interracial Singles",
+    "h1": "interracial",
+    "mainImg": "img/bg/interracial-couple-min.jpg",
+    "description": "Chat and meet Interracial singles in your area.",
+    "welcomeText": "fro Earth Interracial Singles is the premier online dating service for interracial singles. Interracial singles are online now in our large and active community for dating. Afro Earth Interracial Singles is designed for dating, pen pals and to bring interracial singles together. Join Afro Earth Interracial Singles and meet new interracial singles for friendship and dating. Afro Earth Interracial Singles is a niche dating service for single interracial women and single interracial men. Become a member of Afro Earth Interracial Singles and learn more about meeting your interracial match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Interracial Singles Team",
+    "members": [
+      {"name": "ASHLEY, 25", "img": "img/members/interracial/_3291716_6750377_1384258974.jpg"},
+      {"name": "ROBERT, 28", "img": "img/members/interracial/28fb8d76ac0eb1bc8a36fd707175c748.jpeg"},
+      {"name": "CLARA, 31", "img": "img/members/interracial/120590366_Ym7GlL4x9Tqg82-KZVo-XCn6rAac7A_HQecz2zsRv_I.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/interracial/6644cae5c76f86d67ba996083a0040eb0cd50b51_full.jpg"},
+      {"name": "LUCY, 34", "img": "img/members/interracial/Lemark_3.jpg"},
+      {"name": "HAMES, 23", "img": "img/members/interracial/QrUggdVVwBo.jpg"}
+    ],
+    "signature": "AfroEarthInterracialSingles",
+    "url": "sa",
+    "id": "50011",
+    "country" : "SA",
+    "countryFlag": "img/flags/sa-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "CAN": {
+    "title": "AfroEarth Canada Interracial Singles",
+    "h1": "interracial",
+    "mainImg": "img/bg/interracial-couple-min.jpg",
+    "description": "Chat and meet Interracial singles in your area.",
+    "welcomeText": "fro Earth Interracial Singles is the premier online dating service for interracial singles. Interracial singles are online now in our large and active community for dating. Afro Earth Interracial Singles is designed for dating, pen pals and to bring interracial singles together. Join Afro Earth Interracial Singles and meet new interracial singles for friendship and dating. Afro Earth Interracial Singles is a niche dating service for single interracial women and single interracial men. Become a member of Afro Earth Interracial Singles and learn more about meeting your interracial match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Interracial Singles Team",
+    "members": [
+      {"name": "ASHLEY, 25", "img": "img/members/interracial/_3291716_6750377_1384258974.jpg"},
+      {"name": "ROBERT, 28", "img": "img/members/interracial/28fb8d76ac0eb1bc8a36fd707175c748.jpeg"},
+      {"name": "CLARA, 31", "img": "img/members/interracial/120590366_Ym7GlL4x9Tqg82-KZVo-XCn6rAac7A_HQecz2zsRv_I.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/interracial/6644cae5c76f86d67ba996083a0040eb0cd50b51_full.jpg"},
+      {"name": "LUCY, 34", "img": "img/members/interracial/Lemark_3.jpg"},
+      {"name": "HAMES, 23", "img": "img/members/interracial/QrUggdVVwBo.jpg"}
+    ],
+    "signature": "AfroEarthInterracialSingles",
+    "url": "can",
+    "id": "50011",
+    "country" : "CA",
+    "countryFlag": "img/flags/ca-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "AU": {
+    "title": "AfroEarth Australia Interracial Singles",
+    "h1": "interracial",
+    "mainImg": "img/bg/interracial-couple-min.jpg",
+    "description": "Chat and meet Interracial singles in your area.",
+    "welcomeText": "fro Earth Interracial Singles is the premier online dating service for interracial singles. Interracial singles are online now in our large and active community for dating. Afro Earth Interracial Singles is designed for dating, pen pals and to bring interracial singles together. Join Afro Earth Interracial Singles and meet new interracial singles for friendship and dating. Afro Earth Interracial Singles is a niche dating service for single interracial women and single interracial men. Become a member of Afro Earth Interracial Singles and learn more about meeting your interracial match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Interracial Singles Team",
+    "members": [
+      {"name": "ASHLEY, 25", "img": "img/members/interracial/_3291716_6750377_1384258974.jpg"},
+      {"name": "ROBERT, 28", "img": "img/members/interracial/28fb8d76ac0eb1bc8a36fd707175c748.jpeg"},
+      {"name": "CLARA, 31", "img": "img/members/interracial/120590366_Ym7GlL4x9Tqg82-KZVo-XCn6rAac7A_HQecz2zsRv_I.jpg"},
+      {"name": "DANNY, 33", "img": "img/members/interracial/6644cae5c76f86d67ba996083a0040eb0cd50b51_full.jpg"},
+      {"name": "LUCY, 34", "img": "img/members/interracial/Lemark_3.jpg"},
+      {"name": "HAMES, 23", "img": "img/members/interracial/QrUggdVVwBo.jpg"}
+    ],
+    "signature": "AfroEarthInterracialSingles",
+    "url": "au",
+    "id": "50011",
+    "country" : "AU",
+    "countryFlag": "img/flags/au-flag.png",
+    "countries": [
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  }
+}

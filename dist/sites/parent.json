@@ -1,0 +1,137 @@
+{
+  "US": {
+    "title": "AfroEarth USA Parent Singles",
+    "h1": "parent",
+    "mainImg": "img/bg/single-dad.jpg",
+    "description": "Chat and meet Parent singles in your area.",
+    "welcomeText": "Afro Earth Parent Singles is the premier online dating service for parent singles. Parent singles are online now in our large and active community for dating. Afro Earth Parent Singles is designed for dating, pen pals and to bring parent singles together. Join Afro Earth Parent Singles and meet new parent singles for friendship and dating. Afro Earth Parent Singles is a niche dating service for single parent women and single parent men. Become a member of Afro Earth Parent Singles and learn more about meeting your parent match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Parent Singles Team",
+    "members": [
+      {"name": "ANN, 35", "img": "img/members/parent/20110912_070141.jpg"},
+      {"name": "JACK, 39", "img": "img/members/parent/30 year old man.jpg"},
+      {"name": "ALYSE, 43", "img": "img/members/parent/bbbe6ccf-96b9-4c38-9142-8582f1cf78b1_2014_web_head (1).jpg"},
+      {"name": "BAN, 36", "img": "img/members/parent/1539.png"},
+      {"name": "ANASTIA, 41", "img": "img/members/parent/menopause(hairlossmedicine.jpg"},
+      {"name": "RICK, 42", "img": "img/members/parent/11410580_1439006326408079_1413368953_n.jpg"}
+    ],
+    "Signature": "AfroEarthParentSingles",
+    "url": "us",
+    "id": "50011",
+    "country" : "US",
+    "countryFlag": "img/flags/us-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" }
+    ]
+  },
+  "UK": {
+    "title": "AfroEarth United Kingdom Parent Singles",
+    "h1": "parent",
+    "mainImg": "img/bg/single-dad.jpg",
+    "description": "Chat and meet Parent singles in your area.",
+    "welcomeText": "Afro Earth Parent Singles is the premier online dating service for parent singles. Parent singles are online now in our large and active community for dating. Afro Earth Parent Singles is designed for dating, pen pals and to bring parent singles together. Join Afro Earth Parent Singles and meet new parent singles for friendship and dating. Afro Earth Parent Singles is a niche dating service for single parent women and single parent men. Become a member of Afro Earth Parent Singles and learn more about meeting your parent match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Parent Singles Team",
+    "members": [
+      {"name": "ANN, 35", "img": "img/members/parent/20110912_070141.jpg"},
+      {"name": "JACK, 39", "img": "img/members/parent/30 year old man.jpg"},
+      {"name": "ALYSE, 43", "img": "img/members/parent/bbbe6ccf-96b9-4c38-9142-8582f1cf78b1_2014_web_head (1).jpg"},
+      {"name": "BAN, 36", "img": "img/members/parent/1539.png"},
+      {"name": "ANASTIA, 41", "img": "img/members/parent/menopause(hairlossmedicine.jpg"},
+      {"name": "RICK, 42", "img": "img/members/parent/11410580_1439006326408079_1413368953_n.jpg"}
+    ],
+    "signature": "AfroEarthParentSingles",
+    "url": "uk",
+    "id": "50011",
+    "country" : "UK",
+    "countryFlag": "img/flags/uk-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "SA" : {
+    "title": "AfroEarth South Africa Parent Singles",
+    "h1": "parent",
+    "mainImg": "img/bg/single-dad.jpg",
+    "description": "Chat and meet Parent singles in your area.",
+    "welcomeText": "Afro Earth Parent Singles is the premier online dating service for parent singles. Parent singles are online now in our large and active community for dating. Afro Earth Parent Singles is designed for dating, pen pals and to bring parent singles together. Join Afro Earth Parent Singles and meet new parent singles for friendship and dating. Afro Earth Parent Singles is a niche dating service for single parent women and single parent men. Become a member of Afro Earth Parent Singles and learn more about meeting your parent match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Parent Singles Team",
+    "members": [
+      {"name": "ANN, 35", "img": "img/members/parent/20110912_070141.jpg"},
+      {"name": "JACK, 39", "img": "img/members/parent/30 year old man.jpg"},
+      {"name": "ALYSE, 43", "img": "img/members/parent/bbbe6ccf-96b9-4c38-9142-8582f1cf78b1_2014_web_head (1).jpg"},
+      {"name": "BAN, 36", "img": "img/members/parent/1539.png"},
+      {"name": "ANASTIA, 41", "img": "img/members/parent/menopause(hairlossmedicine.jpg"},
+      {"name": "RICK, 42", "img": "img/members/parent/11410580_1439006326408079_1413368953_n.jpg"}
+    ],
+    "signature": "AfroEarthParentSingles",
+    "url": "sa",
+    "id": "50011",
+    "country" : "SA",
+    "countryFlag": "img/flags/sa-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "CAN": {
+    "title": "AfroEarth Canada Parent Singles",
+    "h1": "parent",
+    "mainImg": "img/bg/single-dad.jpg",
+    "description": "Chat and meet Parent singles in your area.",
+    "welcomeText": "Afro Earth Parent Singles is the premier online dating service for parent singles. Parent singles are online now in our large and active community for dating. Afro Earth Parent Singles is designed for dating, pen pals and to bring parent singles together. Join Afro Earth Parent Singles and meet new parent singles for friendship and dating. Afro Earth Parent Singles is a niche dating service for single parent women and single parent men. Become a member of Afro Earth Parent Singles and learn more about meeting your parent match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Parent Singles Team",
+    "members": [
+      {"name": "ANN, 35", "img": "img/members/parent/20110912_070141.jpg"},
+      {"name": "JACK, 39", "img": "img/members/parent/30 year old man.jpg"},
+      {"name": "ALYSE, 43", "img": "img/members/parent/bbbe6ccf-96b9-4c38-9142-8582f1cf78b1_2014_web_head (1).jpg"},
+      {"name": "BAN, 36", "img": "img/members/parent/1539.png"},
+      {"name": "ANASTIA, 41", "img": "img/members/parent/menopause(hairlossmedicine.jpg"},
+      {"name": "RICK, 42", "img": "img/members/parent/11410580_1439006326408079_1413368953_n.jpg"}
+    ],
+    "signature": "AfroEarthParentSingles",
+    "url": "can",
+    "id": "50011",
+    "country" : "CA",
+    "countryFlag": "img/flags/ca-flag.png",
+    "countries": [
+      {"name": "AUSTRALIA", "url": "AU" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  },
+  "AU": {
+    "title": "AfroEarth Australia Parent Singles",
+    "h1": "parent",
+    "mainImg": "img/bg/single-dad.jpg",
+    "description": "Chat and meet Parent singles in your area.",
+    "welcomeText": "Afro Earth Parent Singles is the premier online dating service for parent singles. Parent singles are online now in our large and active community for dating. Afro Earth Parent Singles is designed for dating, pen pals and to bring parent singles together. Join Afro Earth Parent Singles and meet new parent singles for friendship and dating. Afro Earth Parent Singles is a niche dating service for single parent women and single parent men. Become a member of Afro Earth Parent Singles and learn more about meeting your parent match online. Dating works better with Afro Earth!",
+    "welcomeSignature": "The Afro Earth Parent Singles Team",
+    "members": [
+      {"name": "ANN, 35", "img": "img/members/parent/20110912_070141.jpg"},
+      {"name": "JACK, 39", "img": "img/members/parent/30 year old man.jpg"},
+      {"name": "ALYSE, 43", "img": "img/members/parent/bbbe6ccf-96b9-4c38-9142-8582f1cf78b1_2014_web_head (1).jpg"},
+      {"name": "BAN, 36", "img": "img/members/parent/1539.png"},
+      {"name": "ANASTIA, 41", "img": "img/members/parent/menopause(hairlossmedicine.jpg"},
+      {"name": "RICK, 42", "img": "img/members/parent/11410580_1439006326408079_1413368953_n.jpg"}
+    ],
+    "signature": "AfroEarthParentSingles",
+    "url": "au",
+    "id": "50011",
+    "country" : "AU",
+    "countryFlag": "img/flags/au-flag.png",
+    "countries": [
+      {"name": "CANADA", "url": "CAN" },
+      {"name": "SOUTH AFRICA", "url": "SA" },
+      {"name": "UNITED KINGDOM", "url": "UK" },
+      {"name": "UNITED STATES", "url": "US" }
+    ]
+  }
+}

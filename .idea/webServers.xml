@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdcad766-7629-4859-a343-3d1d5c2f81b6" name="vsitechnologies.com" url="http://ftp.vsitechnologies.com">
+        <fileTransfer host="ftp.vsitechnologies.com" port="21" username="vsitechn">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
